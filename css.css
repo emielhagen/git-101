@@ -1,0 +1,14 @@
+body {
+  background-color: green
+}
+
+div {
+  color: red;
+  border-radius: 5px;
+  height: 100px;
+  width: 100px;
+}
+
+hover:div {
+  background-color: black;
+}
